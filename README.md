@@ -33,3 +33,5 @@
 [Mongodb之aggregate(聚合函数)](https://github.com/junfeisu/Blog/issues/19)
 
 [事件冒泡和事件捕获](https://github.com/junfeisu/Blog/issues/20)
+
+[学习ECMAScript规范（一）](https://github.com/junfeisu/Blog/issues/21)
